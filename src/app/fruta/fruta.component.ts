@@ -8,6 +8,7 @@ import { ServicioFService } from '../servicio-f.service';
   styleUrls: ['./fruta.component.css']
 })
 export class FrutaComponent {
+selectedProduct: any;
 eliminar() {
 }
 modififcar() {
